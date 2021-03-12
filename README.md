@@ -15,3 +15,17 @@ A short, permissive software license. Basically, you can do whatever you want as
 |  **Distribute**<br><br>(You may distribute the compiled code and/or source.)  |   |   |
 |  **Sublicense**<br><br>(You may incorporate the work into something that has a more restrictive license.)  |   |   |
 |  **Private Use**<br><br>(You may use the work for private use.)  |   |   |
+
+- Apache License 2.0 (Apache-2.0)
+  
+You can do what you like with the software, as long as you include the required notices. This permissive license contains a patent license from the contributors of the code.
+
+| Can :heavy_check_mark:  | Cannot :x:  | Must :exclamation:  |
+|:-:|:-:|:-:|
+| **Commercial Use**<br><br>(Describes the ability to use the software for commercial purposes.)  | **Hold Liable**<br><br>(Describes the warranty and if the software/license owner can be charged for damages.)  | **Include Copyright**<br><br>(Describes whether the original copyright must be retained.)  |
+| **Modify**<br><br>(Describes the ability to modify the software and create derivatives.)  | **Use Trademark**<br><br>(Describes the allowance of using contributors' names, trademarks or logos.)  | **Include License**<br><br>(Including the full text of license in modified software.)  |
+| **Distribute**<br><br>(Describes the ability to distribute original or modified (derivative) works.)  |   | **State Changes**<br><br>(Stating significant changes made to software.)  |
+| **Sublicense**<br><br>(Describes the ability for you to grant/extend a license to the software.)  |   | **Include Notice**<br><br>(If the library has a "NOTICE" file with attribution notes, you must include that NOTICE when you distribute. You may append to this NOTICE file.)  |
+| **Private Use**<br><br>(Describes the ability to use/modify software freely without distributing it.)  |   |   |
+| **Use Patent Claims**<br><br>(Describes the rights to practice patent claims of contributors to the code.)  |   |   |
+| **Place Warranty**<br><br>(Describes the ability to place warranty on the software licensed.)  |   |   |
