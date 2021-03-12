@@ -10,8 +10,8 @@ A short, permissive software license. Basically, you can do whatever you want as
 
 | Can :heavy_check_mark:  | Cannot :x:  | Must :exclamation:  |
 |:-:|:-:|:-:|
-|  Commercial Use(You may use the work commercially.)  | Hold Liable(The work is provided "as is". You may not hold the author liable.)  | Include Copyright(You must include the copyright notice in all copies or substantial uses of the work.)  |
-|  Modify(You may make changes to the work.)  |   | Include License(You must include the license notice in all copies or substantial uses of the work.)  |
-|  Distribute(You may distribute the compiled code and/or source.)  |   |   |
-|  Sublicense(You may incorporate the work into something that has a more restrictive license.)  |   |   |
-|  Private Use (You may use the work for private use.)  |   |   |
+|  Commercial Use<br>(You may use the work commercially.)  | Hold Liable<br>(The work is provided "as is". You may not hold the author liable.)  | Include Copyright<br>(You must include the copyright notice in all copies or substantial uses of the work.)  |
+|  Modify<br>(You may make changes to the work.)  |   | Include License<br>(You must include the license notice in all copies or substantial uses of the work.)  |
+|  Distribute<br>(You may distribute the compiled code and/or source.)  |   |   |
+|  Sublicense<br>(You may incorporate the work into something that has a more restrictive license.)  |   |   |
+|  Private Use<br>(You may use the work for private use.)  |   |   |
