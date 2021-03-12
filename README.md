@@ -16,7 +16,7 @@ A short, permissive software license. Basically, you can do whatever you want as
 |  **Sublicense**<br><br>(You may incorporate the work into something that has a more restrictive license.)  |   |   |
 |  **Private Use**<br><br>(You may use the work for private use.)  |   |   |
 
-- Apache License 2.0 (Apache-2.0)
+- ### Apache License 2.0 (Apache-2.0)
   
 You can do what you like with the software, as long as you include the required notices. This permissive license contains a patent license from the contributors of the code.
 
